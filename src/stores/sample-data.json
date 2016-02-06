@@ -1,0 +1,76 @@
+{
+  "goals": {
+    "goal1": {
+      "name": "ACL interventions by segment",
+      "description": "insert description here.",
+      "id": "goal1",
+      "key": "goal1",
+      "score": 100,
+      "instancesTotal": 15,
+      "instancesSuccess": 15
+    },
+    "goal2": {
+      "name": "80% Xiaflex, Dupuytren’s, Stage I/II",
+      "description": "insert description here.",
+      "id": "goal2",
+      "key": "goal2",
+      "score": 100,
+      "instancesTotal": 6,
+      "instancesSuccess": 6
+    },
+    "goal3": {
+      "name": "Osteochondritis dissecans surgery",
+      "description": "insert description here.",
+      "id": "goal3",
+      "key": "goal3",
+      "score": 89,
+      "instancesTotal": 9,
+      "instancesSuccess": 8
+    },
+    "goal4": {
+      "name": "Pre-surgical osteoarthritis steps",
+      "description": "insert description here.",
+      "id": "goal4",
+      "key": "goal4",
+      "score": 92,
+      "instancesTotal": 13,
+      "instancesSuccess": 12
+    },
+    "goal5": {
+      "name": "ACL interventions by segment",
+      "description": "insert description here.",
+      "id": "goal5",
+      "key": "goal5",
+      "score": 100,
+      "instancesTotal": 15,
+      "instancesSuccess": 15
+    },
+    "goal6": {
+      "name": "80% Xiaflex, Dupuytren’s, Stage I/II",
+      "description": "insert description here.",
+      "id": "goal6",
+      "key": "goal6",
+      "score": 100,
+      "instancesTotal": 6,
+      "instancesSuccess": 6
+    },
+    "goal7": {
+      "name": "Osteochondritis dissecans surgery",
+      "description": "insert description here.",
+      "id": "goal7",
+      "key": "goal7",
+      "score": 89,
+      "instancesTotal": 9,
+      "instancesSuccess": 8
+    },
+    "goal8": {
+      "name": "Pre-surgical osteoarthritis steps",
+      "description": "insert description here.",
+      "id": "goal8",
+      "key": "goal8",
+      "score": 92,
+      "instancesTotal": 13,
+      "instancesSuccess": 12
+    }
+  }
+}
